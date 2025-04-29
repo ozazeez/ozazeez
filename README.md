@@ -1,5 +1,5 @@
 # About Me:
-I'm currently participating in the Resilient Coders Software Engineering Bootcamp.<br><br>I'm continually improving my process and would greatly appreciate any advice or tips from more seasoned developers.<br><br> 
+I code because I’m curious, build because I love the process, and solve problems because my brain refuses to let them win. This repo zone is where I tinker, explore, and push myself just a bit further every time.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ozazeez.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azeez-olaosebikan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ozazeez) 
