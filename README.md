@@ -1,4 +1,3 @@
-# About Me:
 I code because I’m curious, build because I love the process, and solve problems because my brain refuses to let them win. This repo zone is where I tinker, explore, and push myself just a bit further every time.
 
 ## 🌐 Socials:
