@@ -1,4 +1,4 @@
-👋 Hi everyone! Welcome to my GitHub!
+👋 Hi everyone! Welcome to my GitHub!😁
 
 My journey to becoming a tech titan has brought me here. As a software engineer I code because I’m curious, build because I love the process, and solve problems because my brain refuses to let them win. This is my zone to tinker, explore, and push myself a bit further every time.
 
